@@ -15,7 +15,7 @@ _This simple application was written predominantly in Ruby and allows a user to 
 * _rake db:migrate_
 * _rake db:test:prepare_
 * _ruby app.rb_
-* 
+
 ### Legal
 
 
