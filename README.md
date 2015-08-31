@@ -8,7 +8,14 @@
 
 _This simple application was written predominantly in Ruby and allows a user to add recipes and ingredients to the database. The user is able to add ingredients to a recipe and vice versa. Some basic HTML and CSS were used to design the page._
 
-
+## Setup
+*_git clone https://github.com/CorrieASmith/cookbook_
+*_$ cd cookbook_
+* _rake db:create_
+* _rake db:migrate_
+* _rake db:test:prepare_
+* _ruby app.rb_
+* 
 ### Legal
 
 
